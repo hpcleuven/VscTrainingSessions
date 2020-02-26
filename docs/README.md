@@ -303,7 +303,7 @@ Prerequisites: experience in C, [C++](https://gjbex.github.io/Scientific-C-plus-
       [Fortran](https://gjbex.github.io/Fortran-for-programmers/) programming
 
 
-## Container for HPC
+## Container for HPC (2 hours)
 
 Singularity can be viewed as the Docker for HPC, i.e., a Singularity
 image contains all the operating system/software components for your
@@ -314,7 +314,7 @@ For detailed information, see: [https://gjbex.github.io/Containers-for-HPC/](htt
 Prerequisites: [familiarity with the bash command line](https://hpcleuven.github.io/Linux-intro/)
 
 
-## Version control with git (or SVN)
+## Version control with git (3 hours)
 
 Version control is an essential part of the software development process
 and is crucial for scientific application to help reproducibility.
