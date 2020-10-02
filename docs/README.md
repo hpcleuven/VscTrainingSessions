@@ -314,7 +314,7 @@ For detailed information, see: [https://gjbex.github.io/Containers-for-HPC/](htt
 Prerequisites: [familiarity with the bash command line](https://hpcleuven.github.io/Linux-intro/)
 
 
-## Version control with git (3 hours)
+## Version control with git (4 hours)
 
 Version control is an essential part of the software development process
 and is crucial for scientific application to help reproducibility.
