@@ -11,7 +11,7 @@ For details, see the [training session's website](https://hpcleuven.github.io/Li
 Prerequisites: none
 
 
-## HPC intro (4 hours)
+## HPC intro (2 hours)
 
 This course will give a short practical summary of the basic things VSC users need to know to start working on the HPC cluster.
 For details, see the [training session's website](https://hpcleuven.github.io/HPC-intro/).
